@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{67706496-4F47-BCA4-89E1-DEBF36C39282}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ToonTanks",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
